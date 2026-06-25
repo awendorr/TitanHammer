@@ -12,3 +12,7 @@ Bu devasa çekiçler **Çalışma Masası (Crafting Table)** kullanılarak üret
 Bu çekiçlerden birini elinize alıp bir bloğu kırdığınızda, etrafındaki devasa bir alan anında kazılır.
 
 ✅ **Sürüm Uyumluluğu:** Bu eklenti, **Minecraft 1.21.11** sürümünde bizzat test edilmiş ve kusursuz çalıştığı onaylanmıştır.
+
+
+## 📥 İndir
+[Eklentiyi İndirmek İçin Tıklayın (TitanHammer-1.0.jar)](target/TitanHammer-1.0.jar)
