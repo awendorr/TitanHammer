@@ -1,0 +1,6 @@
+name: TitanHammer
+version: 1.0
+main: com.davud.titanhammer.TitanHammer
+api-version: "1.21"
+description: 3x3 kazı yapan özel Hammer (Gürz) eklentisi.
+author: davud
